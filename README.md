@@ -21,11 +21,11 @@ This repository presents a deep learning–based system that automatically class
 - Based on **Convolutional Neural Networks (CNN)** and **EfficientNet-B0**.
 - Trained on the **APTOS 2019 / Kaggle DR dataset**.
 - Classifies fundus images into 5 stages:
-  - **0** — No DR  
-  - **1** — Mild  
-  - **2** — Moderate  
-  - **3** — Severe  
-  - **4** — Proliferative DR  
+   **0** — No DR  
+   **1** — Mild  
+   **2** — Moderate  
+   **3** — Severe  
+   **4** — Proliferative DR  
 
 ---
 
