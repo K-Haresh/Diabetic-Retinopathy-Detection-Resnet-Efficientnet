@@ -31,10 +31,10 @@ This repository presents a deep learning–based system that automatically class
 
 ### 📊 3. **Evaluation & Visualization**
 - Performance metrics:
-   ✅ Accuracy  
-   ✅ Precision, Recall, F1-Score  
-   ✅ Confusion Matrix  
-   ✅ ROC Curves  
+   - ✅ Accuracy  
+   - ✅ Precision, Recall, F1-Score  
+   - ✅ Confusion Matrix  
+   - ✅ ROC Curves  
 - Grad-CAM visualization used to highlight disease-affected retinal regions.
 
 
